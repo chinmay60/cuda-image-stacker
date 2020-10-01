@@ -1,5 +1,5 @@
 CUDA implementation of Image Stacking. 
 
-##Usage
+#Usage
 cd cuda-image-stacker
 make 
